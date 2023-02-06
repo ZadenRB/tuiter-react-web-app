@@ -1,0 +1,33 @@
+body {
+    padding: 0 6px 0px 16px;
+    background-color: black;
+    width: 600px;
+    margin: 0 auto;
+    font-family: sans-serif;
+}
+
+.wd-tuit {
+    border: 1px solid rgb(47, 51, 54);
+    padding: 12px 16px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.wd-subtitle-text {
+    color: rgb(110, 118, 125);
+    font-size: 15px;
+}
+
+.wd-subcaption-text {
+    font-size: 13px;
+    font-weight: bold;
+    color: white;
+    margin: 0 0 13px;
+}
+
+.wd-caption-text {
+    font-size: 15px;
+    font-weight: bold;
+    color: white;
+    margin: 13px 0 0;
+}

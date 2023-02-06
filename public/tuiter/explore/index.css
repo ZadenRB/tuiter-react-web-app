@@ -1,0 +1,47 @@
+#wd-nav {
+    border-width: 0 1px 1px;
+    border-style: solid;
+    border-color: rgb(47, 51, 54);
+    padding: 10px 12px 0px;
+}
+
+#wd-search {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#wd-search input {
+    padding: 12px 12px 12px 44px;
+    background-color: rgb(27, 29, 30);
+    color: white;
+    border: none;
+    width: 456px;
+    height: 18px;
+    font-size: 15px;
+    border-radius: 21px;
+}
+
+#wd-explore-settings {
+    position: relative;
+    right: 12px;
+}
+
+.wd-nav-item {
+    text-decoration: none;
+    color: rgb(110, 118, 125);
+    font-size: 15px;
+    padding: 16px;
+    display: inline-block;
+}
+
+.wd-nav-item-highlighted {
+    color: rgb(29, 161, 242);
+    border-bottom: 3px solid rgb(29, 161, 242);
+}
+
+.wd-preview-img {
+    width: 100px;
+    height: 100px;
+    border-radius: 10px;
+}
