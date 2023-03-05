@@ -24,7 +24,7 @@ const ExploreComponent = () => {
                 </li>
             </ul>
             <div className={"position-relative"}>
-                <img className={"d-block w-100"} src={`/images/starship.jpg`} />
+                <img className={"d-block w-100"} src={`/images/starship.jpg`} alt={"spaceX starship"} />
                 <span className={"ms-3 fs-1 fw-bold text-light position-absolute bottom-0 left-0"}>
                     SpaceX's Starship
                 </span>
